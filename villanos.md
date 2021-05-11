@@ -2,4 +2,3 @@
 
 * Red Skull
 * Joker
-* Capitán America
